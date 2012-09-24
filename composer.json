@@ -1,0 +1,20 @@
+{
+  "name": "ackintosh/php-bar-navi",
+  "type": "library",
+  "description": "BAR-NAVI shop search API library",
+  "keywords": ["bar-navi", "suntory"],
+  "homepage": "https://github.com/ackintosh/php-bar-navi",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ackintosh",
+      "email": "sora.akatsuki@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-0": {"BAR-NAVI": "source/"}
+  }
+}
