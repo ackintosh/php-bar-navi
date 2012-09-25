@@ -5,6 +5,7 @@
   "keywords": ["bar-navi", "suntory"],
   "homepage": "https://github.com/ackintosh/php-bar-navi",
   "license": "MIT",
+  "version": "0.1.0",
   "authors": [
     {
       "name": "ackintosh",
