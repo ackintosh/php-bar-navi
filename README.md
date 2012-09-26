@@ -1,5 +1,7 @@
 #BAR-NAVIのAPIをたたくためのPHPライブラリ
 
+The build status of the current master branch is tracked by Travis CI:  
+
 - *BAR-NAVI by SUNTORY*  
 [http://bar-navi.suntory.co.jp](http://bar-navi.suntory.co.jp/)  
 
@@ -10,10 +12,10 @@
 
     $client = new \BARNAVI\Client('api-key');
     $response = $client->request(array(
-        'pattern'	=> 0,
-        'url'		=> 'http://example.com',
-        'pref'		=> 13,
-        'format'	=> 'json',
+        'pattern'   => 0,
+        'url'       => 'http://example.com',
+        'pref'      => 13,
+        'format'    => 'json',
     ));
 
     var_dump($response->getData());
