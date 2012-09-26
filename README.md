@@ -1,6 +1,7 @@
 #BAR-NAVIのAPIをたたくためのPHPライブラリ
 
-The build status of the current master branch is tracked by Travis CI:  
+The build status of the current master branch is tracked by Travis CI:  [![Build Status](https://secure.travis-ci.org/ackintosh/php-bar-navi.png)](http://travis-ci.org/ackintosh/php-bar-navi)  
+
 
 - *BAR-NAVI by SUNTORY*  
 [http://bar-navi.suntory.co.jp](http://bar-navi.suntory.co.jp/)  
