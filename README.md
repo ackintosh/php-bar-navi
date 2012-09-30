@@ -20,6 +20,7 @@ The build status of the current master branch is tracked by Travis CI:  [![Build
     ));
 
     var_dump($response->getData());
+    var_dump($response->getCode());
 
 指定可能なパラメータはAPI利用ガイドを参照してください。
 
